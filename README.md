@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aksh5
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning IBM Data Science Professional Certificate COurse
+- 🌱 I’m currently learning IBM Data Science Professional Certificate Course
 
 
 
