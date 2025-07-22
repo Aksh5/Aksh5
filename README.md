@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshada Ghadigaonkar
 
-<!--
-**Aksh5/Aksh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Building with SQL, Power BI, Excel, and Python  
+🌏 Passionate about turning raw data into actionable insights  
+💼 Currently working on real-world dashboards and storytelling projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📂 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [UNICEF Donation Dashboard](link) | Analyzed donations from 44 partners | Power BI, Excel |
+| [Chocolate Sales Report](link) | Region-wise sales trends and KPIs | Power BI |
+|
+
+
+
+🧠 Always learning. Dreaming big.  
+
+
+📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/akshada-ghadigaonkar) | [Gmail](ghadigaonkar.akshada05@gmail.com)
