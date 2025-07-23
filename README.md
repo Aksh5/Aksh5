@@ -10,7 +10,7 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [UNICEF Donation Dashboard]([link](https://github.com/Aksh5/UNICEF-Donation-Analysis)) | Analyzed donations from 44 partners | Power BI, Excel |
+| [UNICEF Donation Dashboard]([https://github.com/Aksh5/UNICEF-Donation-Analysis]) | Analyzed donations from 44 partners | Power BI, Excel |
 | [Chocolate Sales Report](link) | Region-wise sales trends and KPIs | Power BI |
 |
 
