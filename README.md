@@ -12,7 +12,8 @@
 |--------|-------------|-------|
 | [UNICEF Donation Dashboard](https://github.com/Aksh5/UNICEF-Donation-Analysis) | Analyzed donations from 44 partners | Power BI, Excel |
 | [Chocolate Sales Report](https://github.com/Aksh5/Chocolate-Sales-Dashboard) | Region-wise sales trends and KPIs | Power BI |
-| [E-Commerce SQL Analysis](https://github.com/Aksh5/EcommerceDB) | Sales and Products  | SQL |
+| [E-Commerce SQL Analysis](https://github.com/Aksh5/EcommerceDB) | Analyzed revenue trends from order-level sales data | SQL |
+| [Dannys-Diner-SQL-Case-Study](https://github.com/Aksh5/Dannys-Diner-SQL-Case-Study) | Solved 10 real-world business queries using SQL logic | SQL |
 
 
 
